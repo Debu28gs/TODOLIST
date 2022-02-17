@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.App-Image
+{
+  background-color: rgb(60, 196, 196);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
